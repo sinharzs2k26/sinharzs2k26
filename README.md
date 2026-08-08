@@ -31,11 +31,11 @@ I enjoy turning ideas into simple tools, automating tasks, and experimenting wit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinharzs2k26&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-ahnafsaikat.vercel.app/api?username=sinharzs2k26&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinharzs2k26&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-ahnafsaikat.vercel.app/api/top-langs/?username=sinharzs2k26&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
